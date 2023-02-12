@@ -1,4 +1,4 @@
-# Windows Forms UI testing with Python, Appium and Webappdriver
+# Windows application UI testing with Python, Appium and Webappdriver
 
 ## Installation
 - Install latest stable Python environment from **[here](https://www.python.org/downloads/)**
@@ -9,7 +9,7 @@
 ## C# Project RPA_TestApp
 Is a simple C# test application for file `desktopdemo.py` where each of the UI buttons print different text to the middle of the form. Appium tests that the text is correct after pressing each of the four buttons.
 
-## How to use the Appium with Windows Forms application
+## How to use the Appium with Windows application
  #### The following table shows the mapping between the locators in Appium and Inspector.
 
     Appium WebDriver locator            Accessibility Insight / Inspect.exe property
